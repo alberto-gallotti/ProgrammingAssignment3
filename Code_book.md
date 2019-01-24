@@ -8,6 +8,7 @@
 - subject_id: ID of each subject
 - test_or_train: whether the subject's data were used for the training set or the test set
 - activity:
+
 --  1 WALKING
 --  2 WALKING_UPSTAIRS
 --  3 WALKING_DOWNSTAIRS
